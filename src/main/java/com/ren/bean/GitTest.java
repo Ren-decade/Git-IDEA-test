@@ -8,5 +8,8 @@ package com.ren.bean;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("IDEA First");
+        System.out.println("IDEA First");
+        System.out.println("IDEA First");
+        System.out.println("IDEA First");
     }
 }
