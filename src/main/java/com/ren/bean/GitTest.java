@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("IDEA First");
 
         System.out.println("IDEA hot-fix Fourth");
+        System.out.println("刚刚忘记修改版本简介了");
     }
 }
