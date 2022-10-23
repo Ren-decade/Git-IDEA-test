@@ -18,5 +18,7 @@ public class GitTest {
         System.out.println("hot-fix conflict test");
 
         System.out.println("master conflict test");
+
+        System.out.println("push commit test");
     }
 }
