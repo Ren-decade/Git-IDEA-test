@@ -14,5 +14,7 @@ public class GitTest {
 
         System.out.println("IDEA hot-fix Fourth");
         System.out.println("刚刚忘记修改版本简介了");
+
+        System.out.println("hot-fix conflict test");
     }
 }
